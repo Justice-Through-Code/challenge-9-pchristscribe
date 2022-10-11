@@ -23,8 +23,8 @@ def validate_user_input():
 
 # 1.2 TODO: Once you are done, uncomment the two lines below to ensure that your code works as expected
 
-user_number = validate_user_input()
-print(f'The number the user entered is {user_number}.')
+# user_number = validate_user_input()
+# print(f'The number the user entered is {user_number}.')
 
 # 2.1 TODO: Create a function called print_tenth_item that will
 # - take in a list of items as a parameter called `top_ten`
